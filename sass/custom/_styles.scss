@@ -1,2 +1,11 @@
 // Add your custom styling here.
-#content article img { padding: 10px; }
+.appstore-link { float:right; background: url('/images/App_Store_Badge_270x80.png') no-repeat; text-indent:-999999px; width:270px; height:80px; }
+
+.nav li:first-child a { background: url('/images/banner-logo.png') no-repeat; text-indent:-999999px; width:422px; height:80px; padding:0px!important;}
+.navbar-inverse .nav .active>a:hover { background: url('/images/banner-logo.png') no-repeat!important;}
+.navbar, .navbar-inner { height:100px!important; }
+.navbar-inner { background: url('/images/banner-pattern.png') repeat-x!important; }
+.navbar-inner .container { margin-top:10px; }
+.jumbotron .container { font-family: avantGarde!important; }
+.jumbotron .container .tagline { font-family: avantGarde!important; }
+h1.link { font-family: avantGarde!important }
