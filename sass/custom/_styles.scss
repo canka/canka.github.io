@@ -6,6 +6,4 @@
 .navbar, .navbar-inner { height:100px!important; }
 .navbar-inner { background: url('/images/banner-pattern.png') repeat-x!important; }
 .navbar-inner .container { margin-top:10px; }
-.jumbotron .container { font-family: avantGarde!important; }
-.jumbotron .container .tagline { font-family: avantGarde!important; }
-h1.link { font-family: avantGarde!important }
+.jumbotron .container, .jumbotron .container .tagline, h1.link , .hentry .jumbotron  { font-family: avantGarde!important; }
