@@ -4,6 +4,7 @@ title: "Hello from Socialeyes"
 date: 2014-07-08 10:19:12 -0400
 comments: false
 categories: [socialeyes, general, social]
+description: What is Socialeyes and what does Socialeyes do as a mobile application.
 ---
 
 We are very excited for the upcoming days. Because we are about to make our initial release to public. By Socialeyes, we are willing to help everyone to socialize easier. No, we are not 
