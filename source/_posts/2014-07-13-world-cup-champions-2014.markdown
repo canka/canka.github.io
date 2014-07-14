@@ -1,0 +1,26 @@
+---
+layout: post
+title: "World Cup Champions 2014"
+date: 2014-07-13 20:09:45 -0400
+comments: false
+description: 2014 World Cup winner has become Germany
+categories: 
+- world cup 2014
+- messi
+- germany
+- argentina
+- mario gotze
+---
+It’s been one of the most entertaining World Cup tournaments in history. In the final we had two great sides. Germany against Argentina. Argentina did very good defensive work throughout the World Cup 2014. They came all the way to the final in this tournament hosted by their arch rivals. Winning the title could mean a lot more than just a championship for the Argentinians. Germans put out an excellent team performance in World Cup 2014 and deserved the Cup all the way.
+
+<!-- more -->
+
+{% img /images/post/germany2014.jpg %}
+
+Although there was much challenge and competition in the final, it would not be a fair assessment to say that the final game was a thrilling one. It ended in extra time by the spectacular half volley of Mario Gotze. 
+
+Neuer, the German goalkeeper was awarded the Golden Glove for his outstanding performance in World Cup 2014. Lionel Messi was awarded the Golden Ball. Let’s confess it, we all love Lionel Messi so much that even though his performances were behind some of the other names in the tournament like any German player, or Argentinian Garay, or Colombian James Rodriguez, we give him the award. 
+
+Let us not forget that despite the fact that Brazilian fans are pretty much disheartened by their performance in World Cup 2014, they hosted an amazing tournament. Let us also not forget that they finished in top 4. One of the highlights of the tournament will surely be their historical defeat by Germans with a unforgettable score of 7-1. For some, this score put the actual final in its shade.
+
+We have had Portugal with Cristiano Ronaldo, Argentina with Lionel Messi, Netherlands with Arjen Robben, Brazil with Neymar… But the fact remains the same. Football, as we know it, is a team sport and Germany showed this to any football fan around the world. Let us all celebrate the winners and not forget that a world with sports is way more fun and exciting. Cheers All!
