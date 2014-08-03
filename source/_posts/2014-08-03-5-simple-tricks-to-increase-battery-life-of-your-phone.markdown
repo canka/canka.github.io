@@ -2,8 +2,16 @@
 layout: post
 title: "5 Simple tricks to increase battery life of your phone"
 date: 2014-08-03 09:14:36 -0400
-comments: true
+comments: false
 categories: 
+- Mobile
+- iOS
+- iphone
+- ipad
+- energy
+- charging
+- battery
+- battery life
 ---
 It is summer time. We spend our days on the beach getting sun tan, enjoying our Mojitos and swimming. During this summer relaxation, we take out our phones to take a selfie or text to our friends and we see the inevitable result on the top bar in our screens. The battery is running low! We all enjoy our apps and they will surely use some portion of our batteries. Looking for a charger could be painful on the beach. We all feel the need to play a game, take a look at our friends on Facebook, or simply listen to music while we enjoy ourselves on the beach. So how to tackle the battery problem? Here are a couple of simple tricks you can do to avoid the battery problems.
 <!-- more -->
