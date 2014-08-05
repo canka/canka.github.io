@@ -35,14 +35,15 @@ You can limit how your apps update their data while in the background. Tap throu
 </p>
 
 ###4. Turn off Parallax Effect: 
-This means dropping your Internet connection speed to a lower level but this can come handy in times when you are not looking for high speed. Go to the “Cellular” section in phone’s menu and switch of the 3g. 
+As pretty as the parallax effect is, you might want to trade it for more battery life. You can disable this option in "Settings > General > Accessibility > Reduce Motion".
 
 <p style="text-align:center">
 {% img /images/post/reduce_motion.png %}
 </p>
 
 ###5. Limit Spotlight Search:
- This is one of the most crucial steps. You might have drunken a bit too much that night and you could barely brush your teeth or find your pj’s. But find that charger of yours and let it charge while you sleep! One think to pay attention to is that try to charge it at the farthest place to your body. Scientists believe that sleeping in the same room as you charge your phone could not be good for your health due to the magnetic waves it produces.  
+Depending on how often you use spotlight search, it can be good idea to disable indexing data you are not interested in. Just go to "Settings > General > Spotlight Search" and disable the items that .you don't want to include in search results.
+
 <p style="text-align:center">
 {% img /images/post/spotlight_search.png %}
 </p>
