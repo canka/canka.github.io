@@ -14,7 +14,8 @@ categories:
 - foursquare
 - purpose
 - fans
-- location based social networks
+- location based
+- social networks
 - up for coffee
 - push notifications
 - social activity
