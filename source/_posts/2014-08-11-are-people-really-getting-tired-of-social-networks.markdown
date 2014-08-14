@@ -2,7 +2,7 @@
 layout: post
 title: "Are People Really Getting Tired of Social Networks?"
 date: 2014-08-11 06:08:10 -0400
-comments: true
+comments: false
 categories: 
 - social
 - social media
