@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: dublin | Socialeyes Blog]]></title>
+  <link href="http://blog.socialeyesapp.com/blog/categories/dublin/atom.xml" rel="self"/>
+  <link href="http://blog.socialeyesapp.com/"/>
+  <updated>2014-08-26T05:34:04-04:00</updated>
+  <id>http://blog.socialeyesapp.com/</id>
+  <author>
+    <name><![CDATA[Socialeyes]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Summit Dublin]]></title>
+    <link href="http://blog.socialeyesapp.com/blog/2014/07/23/the-summit-dublin/"/>
+    <updated>2014-07-23T11:16:40-04:00</updated>
+    <id>http://blog.socialeyesapp.com/blog/2014/07/23/the-summit-dublin</id>
+    <content type="html"><![CDATA[<p>As tech world grows with mobile and web products, the gatherings become more and more important everyday. Events, summits, workshops and meetings are the perfect place to track down new development in the business.</p>
+
+<!-- more -->
+
+
+<p><img class="right" src="/images/post/thesummit.jpg" width="350" height="350"></p>
+
+<p>One of the biggest events in the world is <a href="http://www.summitdublin.com">“The Summit”</a>. In 4th- 6th November 2014 Dublin will host The Summit. As Wall Street Journal stated “The giants of the web assemble in Dublin”, many startups like Socialeyes and big players in the market will be in Dublin to create a huge buzz in the tech ecosystem.</p>
+
+<p>Socialeyes is happy to be taking place in The Summit. We will try to explain what Socialeyes is doing, how Socialeyes integrates in your social life, makes it easier to meet your friends nearby by sharing your mood. The Summit Dublin will be a nice showcase for Socialeyes and we are so excited to be there.</p>
+
+<p>If everything goes as planned we will be exhibiting Android version of Socialeyes and new UEX enhancements for iOS devices in The Summit Dublin – 2014.</p>
+
+<p>Come visit us in Dublin, we will be happy to discuss anything about mobile and tech.</p>
+]]></content>
+  </entry>
+  
+</feed>

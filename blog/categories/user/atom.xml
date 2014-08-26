@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: user | Socialeyes Blog]]></title>
+  <link href="http://blog.socialeyesapp.com/blog/categories/user/atom.xml" rel="self"/>
+  <link href="http://blog.socialeyesapp.com/"/>
+  <updated>2014-08-26T05:34:04-04:00</updated>
+  <id>http://blog.socialeyesapp.com/</id>
+  <author>
+    <name><![CDATA[Socialeyes]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Feedback: Road to success]]></title>
+    <link href="http://blog.socialeyesapp.com/blog/2014/08/05/feedback-road-to-success/"/>
+    <updated>2014-08-05T14:48:58-04:00</updated>
+    <id>http://blog.socialeyesapp.com/blog/2014/08/05/feedback-road-to-success</id>
+    <content type="html"><![CDATA[<p>User feedback is key to success. While developing a product, startup&rsquo;s sources are limited. Some designers, couple of engineers, a product owner and a limited amount of beta users are creating, reviewing and testing the product with limited resources. People work hard for months maybe years to create a usable, viable product. These people are using and seeing that product tons of times a day. At that point people in the team become blind about their product day by day. The way the product looks, they way the product works are becoming ordinary and standard for these people. As time passes by the team loses their creativity and development power on the product. People with new perspective, people with a neutral point of view are needed for the product to move on.</p>
+
+<!-- more -->
+
+
+<p>At that point new users and user feedback becomes vital! This is an obligatory process in the lifecycle of a mature, useful product. Objective feedback is indispensable for your product development.
+Feedback helps;
+&ndash; to evolve
+&ndash; to track down weak spots
+&ndash; to grow it&rsquo;s audience
+&ndash; to give opinions about your user base
+&ndash; to change your point of view
+&ndash; to implement better ideas
+&ndash; to identify users needs</p>
+
+<p style="text-align:center">
+<img src="/images/post/feedback.jpg">
+</p>
+
+
+<h1>What should be done to gain your audience&rsquo;s feedback?</h1>
+
+<h2>Always include a feedback form in your product</h2>
+
+<p>Place an easy, user friendly, reachable feedback form in your product or guide your users to email or tweet their feedbacks.</p>
+
+<br />
+
+
+<h2>Ask people what they think about your product</h2>
+
+<p>Ask for feedback and their opinions as many people as you can. Try to observe people&rsquo;s behaviours while they are using your product.</p>
+
+<br />
+
+
+<h2>Always respond to users' feedbacks, be positive</h2>
+
+<p>If possible respond every feedback with an dequate answer, be positive and constructive.</p>
+
+<br />
+
+
+<h2>Include technical details in your feedback information</h2>
+
+<p>For inhouse usage; try to gather user&rsquo;s device information, OS information, implement a backlog for your product and check user&rsquo;s behaviours.</p>
+
+<br />
+
+
+<h2>Aggregate feedbacks by their type</h2>
+
+<p>Aggregate feedbacks by common types and inspect them carefully. Observe feedback groups by time, they will tell you if there are common problems/common needs at certain points of your product.</p>
+
+<br />
+
+
+<p>There are lessons to be learned from feedbacks, try to gain as much feedback as you can. Analytics and statistics give some ideas but there may be still foggy areas as Danish football coach
+<a href="http://en.wikipedia.org/wiki/Ebbe_Skovdahl">Ebbe Skovdahl</a> stated:</p>
+
+<blockquote><p>Statistics are like mini-skirts, shows a lot of things but does not show what is essential.</p></blockquote>
+
+<p>Feedback is a real, objective review of your product coming from a real human being which makes it invaluable.</p>
+]]></content>
+  </entry>
+  
+</feed>

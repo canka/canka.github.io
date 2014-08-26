@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: charging | Socialeyes Blog]]></title>
+  <link href="http://blog.socialeyesapp.com/blog/categories/charging/atom.xml" rel="self"/>
+  <link href="http://blog.socialeyesapp.com/"/>
+  <updated>2014-08-26T05:34:04-04:00</updated>
+  <id>http://blog.socialeyesapp.com/</id>
+  <author>
+    <name><![CDATA[Socialeyes]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[5 Simple tricks to increase battery life of your phone]]></title>
+    <link href="http://blog.socialeyesapp.com/blog/2014/08/03/5-simple-tricks-to-increase-battery-life-of-your-phone/"/>
+    <updated>2014-08-03T09:14:36-04:00</updated>
+    <id>http://blog.socialeyesapp.com/blog/2014/08/03/5-simple-tricks-to-increase-battery-life-of-your-phone</id>
+    <content type="html"><![CDATA[<p>It is summer time. We spend our days on the beach getting sun tan, enjoying our Mojitos and swimming. During this summer relaxation, we take out our phones to take a selfie or text to our friends and we see the inevitable result on the top bar in our screens. The battery is running low! We all enjoy our apps and they will surely use some portion of our batteries. Looking for a charger could be painful on the beach. We all feel the need to play a game, take a look at our friends on Facebook, or simply listen to music while we enjoy ourselves on the beach. So how to tackle the battery problem? Here are a couple of simple tricks you can do to avoid the battery problems.</p>
+
+<!-- more -->
+
+
+<h3>1. Limit Location Related System Services:</h3>
+
+<p>There are several location related system services that you might find unnecessary. You can finding these options in &ldquo;Settings > Privacy > Location Services > System Services&rdquo;. Be sure not to disable useful services such as &ldquo;Find my iPhone&rdquo;.</p>
+
+<p style="text-align:center">
+<img src="/images/post/system_services.png" width="200" height="80">
+</p>
+
+
+<h3>2. Limit Background App Refresh:</h3>
+
+<p>You can limit how your apps update their data while in the background. Tap through &ldquo;Settings > General > Background App Refresh&rdquo;. You can also disable &ldquo;Background App Refresh&rdquo; altogether but it can be more convenient to allow frequently used applications to refresh in the background.</p>
+
+<p style="text-align:center">
+<img src="/images/post/background_refresh.png">
+</p>
+
+
+<h3>3. Turn your brightness lower:</h3>
+
+<p> Go to “Brightness” section and turn your screen brightness to a lower level at which you can still see your screen but consume less energy. On sunny days this could be difficult given the fact that it will already be a bit more challenging to see what is going on your screen while the sun is shining.</p>
+
+<p style="text-align:center">
+<img src="/images/post/iphone-ios7-control-center.jpg">
+</p>
+
+
+<h3>4. Turn off Parallax Effect:</h3>
+
+<p>As pretty as the parallax effect is, you might want to trade it for more battery life. You can disable this option in &ldquo;Settings > General > Accessibility > Reduce Motion&rdquo;.</p>
+
+<p style="text-align:center">
+<img src="/images/post/reduce_motion.png">
+</p>
+
+
+<h3>5. Limit Spotlight Search:</h3>
+
+<p>Depending on how often you use spotlight search, it can be good idea to disable indexing data you are not interested in. Just go to &ldquo;Settings > General > Spotlight Search&rdquo; and disable the items that .you don&rsquo;t want to include in search results.</p>
+
+<p style="text-align:center">
+<img src="/images/post/spotlight_search.png">
+</p>
+
+
+<p>We hope that someday in the near future the phone companies will be able to come up with solutions to battery problems. After all we are living in an era where our apps are indispensable part of our lives and we feel like we lack part of our bodies when our phone battery is dead.</p>
+]]></content>
+  </entry>
+  
+</feed>
