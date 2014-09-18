@@ -13,7 +13,7 @@ categories:
 The fact that Apple is releasing not one, but two models of iPhone surprised me despite all the rumors going around. As an iOS Developer, my first impulse was a longing for the days where all you had to deal with was a 320x480 screen and place every view and not give it a second thought.
 <!-- more -->
 
-Now that the dust has somewhat settled, supporting three screens with different widths doesn’t seem much harder than supporting two. Apple had already provided the tools to handle this kind of scenario and tools like PaintCode or UIImage-PDF make it easy to handle scalable assets.
+Now that the dust has somewhat settled, supporting three screens with different widths doesn’t seem much harder than supporting two. Apple had already provided the tools to handle this kind of scenario and tools like [PaintCode](http://www.paintcodeapp.com/) or [UIImage-PDF](https://github.com/mindbrix/UIImage-PDF)  make it easy to handle scalable assets.
 
 Figuring out good practices for updating app designs seems a bit more challenging. The fact that the new iPhones have the same screen ratio as iPhone 5 makes it easy to simply scale up every component to fit screen; indeed unupdated apps are scaled up for iPhone 6 and 6+. But this is just to ensure compatibility.
 
@@ -27,7 +27,7 @@ There are cases however when it is preferable to preserve the ratio of an UI ele
 
 And here is the same screen, with only minor adjustments to ensure the cell is centered:
 
-<p style="text-align:center">
+can<p style="text-align:center">
 {% img /images/post/iPhone6_2.png right %}
 </p>
 
