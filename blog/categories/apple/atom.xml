@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Socialeyes Blog]]></title>
   <link href="http://blog.socialeyesapp.com/blog/categories/apple/atom.xml" rel="self"/>
   <link href="http://blog.socialeyesapp.com/"/>
-  <updated>2014-09-18T03:30:42-04:00</updated>
+  <updated>2014-09-18T06:06:24-04:00</updated>
   <id>http://blog.socialeyesapp.com/</id>
   <author>
     <name><![CDATA[Socialeyes]]></name>
@@ -14,33 +14,56 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Sour Apple]]></title>
-    <link href="http://blog.socialeyesapp.com/blog/2014/09/18/sour-apple/"/>
-    <updated>2014-09-18T03:23:32-04:00</updated>
-    <id>http://blog.socialeyesapp.com/blog/2014/09/18/sour-apple</id>
-    <content type="html"><![CDATA[<p>Apple introduced iPhone 6 and launched its iOS 8 platform in the recent days. Let us take a look at how Apple has made its fans upset in many ways.</p>
-
-<p>iPhone 6 and iPhone 6 Plus: Remember the times when Apple was the pioneer in smart devices? Steve and his crew would create, the rest would just follow. The first thing we have seen was that this changed.</p>
+    <title type="html"><![CDATA[Updating App Designs for iPhone 6 and 6 Plus]]></title>
+    <link href="http://blog.socialeyesapp.com/blog/2014/09/18/updating-app-designs-for-iphone-6-and-6-plus/"/>
+    <updated>2014-09-18T05:58:51-04:00</updated>
+    <id>http://blog.socialeyesapp.com/blog/2014/09/18/updating-app-designs-for-iphone-6-and-6-plus</id>
+    <content type="html"><![CDATA[<p>The fact that Apple is releasing not one, but two models of iPhone surprised me despite all the rumors going around. As an iOS Developer, my first impulse was a longing for the days where all you had to deal with was a 320x480 screen and place every view and not give it a second thought.</p>
 
 <!-- more -->
 
 
-<p>It is not very hard to see that Apple has followed the footsteps of its competitor, Samsung with its new products. One can easily see this only by looking at the phones. Besides we were unable to see any other cool features that makes the Apple fans go “wow”. Apart from the screen size changes and iOS 8, I can hardly see that Apple may keep its momentum as it was in the past. Good luck with iPhone 6 when competing with Samsung.</p>
+<p>Now that the dust has somewhat settled, supporting three screens with different widths doesn’t seem much harder than supporting two. Apple had already provided the tools to handle this kind of scenario and tools like PaintCode or UIImage-PDF make it easy to handle scalable assets.</p>
+
+<p>Figuring out good practices for updating app designs seems a bit more challenging. The fact that the new iPhones have the same screen ratio as iPhone 5 makes it easy to simply scale up every component to fit screen; indeed unupdated apps are scaled up for iPhone 6 and 6+. But this is just to ensure compatibility.</p>
+
+<p>When you take a look at the iPhone 6 or 6+ screen, you will note that the heights of UI Elements like navigation bars and buttons have stayed the same. The screen is utilized to convey more elements and information, rather than bigger instances of the UI elements.</p>
+
+<p>There are cases however when it is preferable to preserve the ratio of an UI element. Take a look at our feed screen in Socialeyes as seen in iPhone 5:</p>
 
 <p style="text-align:center">
-<img src="/images/post/steve_jobs_1.jpg" title="right" >
-<br />
-<em>Steve Jobs, coding.</em>
+<img src="/images/post/iPhone6_1.png" title="right" >
 </p>
 
 
-<p>Apple Watch: We have to admit, it is a cool design. Will it be practical to use it? It is a question mark for all of us. I guess we’ll have to wait for 2015 for the release date. One thing for sure though, again we see that Apple has followed the footsteps of its competitors.</p>
+<p>And here is the same screen, with only minor adjustments to ensure the cell is centered:</p>
 
-<p>iOS 8: Remember the time when Apple announced that iOS 7 was going to be the biggest change for Apple users? Well it was right on. People complained about some of the downsides of iOS 7 (especially iPhone 4 users) but it was good innovation. However there have been some small mistakes that created prejudice in the minds of Apple fans. Why make it 5.7 GB? This is almost half the memory for many iPhone users. If the users do not have memory for downloading apps, taking photos, recording videos, what is iOS 8 good for then? As if Apple leave such small memory to its users for other actions, why include a U2 album within the app? Do you know if your users like it? Perhaps there are people that do not like U2?</p>
+<p style="text-align:center">
+<img src="/images/post/iPhone6_2.png" title="right" >
+</p>
 
-<p>The battery problem for the iPhone devices seems to remain the same. Which is quite disappointing given the fact that 9 out of 10 iPhone users list battery problem as their biggest problem with the device.</p>
 
-<p>Oh Steve, we missed you already. Rest in peace.</p>
+<p>Clearly this not what we looking for. The left and right margins feel very unnecessary.</p>
+
+<p>Let’s try preserving the margins:</p>
+
+<p style="text-align:center">
+<img src="/images/post/iPhone6_3.png" title="right" >
+</p>
+
+
+<p>This feels a bit better but proportionality feels a bit off. I don’t think our designer will be happy with this.</p>
+
+<p>After increasing the height of the colored areas we reserve for activities and increasing the font size a bit, this is the result:</p>
+
+<p style="text-align:center">
+<img src="/images/post/iPhone6_4.png" title="right" >
+</p>
+
+
+<p>This looks much better. There are a lot of room for improvement but for now this will do.</p>
+
+<p>The best practices and standards for app design is in flux and I find this very exciting. Our rule of thumb for now is to fix what seems off. Hopefully we will figure out ways to make good use of the new screen sizes rather than just ensuring that things look okay.</p>
 ]]></content>
   </entry>
   
