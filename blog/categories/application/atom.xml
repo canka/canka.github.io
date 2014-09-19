@@ -4,7 +4,7 @@
   <title><![CDATA[Category: application | Socialeyes Blog]]></title>
   <link href="http://blog.socialeyesapp.com/blog/categories/application/atom.xml" rel="self"/>
   <link href="http://blog.socialeyesapp.com/"/>
-  <updated>2014-09-18T06:06:24-04:00</updated>
+  <updated>2014-09-19T06:13:00-04:00</updated>
   <id>http://blog.socialeyesapp.com/</id>
   <author>
     <name><![CDATA[Socialeyes]]></name>
@@ -23,7 +23,7 @@
 <!-- more -->
 
 
-<p>Now that the dust has somewhat settled, supporting three screens with different widths doesn’t seem much harder than supporting two. Apple had already provided the tools to handle this kind of scenario and tools like PaintCode or UIImage-PDF make it easy to handle scalable assets.</p>
+<p>Now that the dust has somewhat settled, supporting three screens with different widths doesn’t seem much harder than supporting two. Apple had already provided the tools to handle this kind of scenario and tools like <a href="http://www.paintcodeapp.com/">PaintCode</a> or <a href="https://github.com/mindbrix/UIImage-PDF">UIImage-PDF</a>  make it easy to handle scalable assets.</p>
 
 <p>Figuring out good practices for updating app designs seems a bit more challenging. The fact that the new iPhones have the same screen ratio as iPhone 5 makes it easy to simply scale up every component to fit screen; indeed unupdated apps are scaled up for iPhone 6 and 6+. But this is just to ensure compatibility.</p>
 
@@ -38,10 +38,9 @@
 
 <p>And here is the same screen, with only minor adjustments to ensure the cell is centered:</p>
 
-<p style="text-align:center">
+<p>can<p style="text-align:center">
 <img src="/images/post/iPhone6_2.png" title="right" >
-</p>
-
+</p></p>
 
 <p>Clearly this not what we looking for. The left and right margins feel very unnecessary.</p>
 
