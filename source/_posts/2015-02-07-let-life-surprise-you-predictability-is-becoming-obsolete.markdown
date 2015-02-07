@@ -16,9 +16,6 @@ This week was special for many people and hopefully  for you as well. Not becaus
 
 There are more of this moments than we tend to realize. Sometimes it just needs a little reminder. [http://lifehacker.com/carry-a-surprise-journal-to-find-areas-for-self-impro-1638467349](http://lifehacker.com/carry-a-surprise-journal-to-find-areas-for-self-impro-1638467349)
 <!-- more -->
-<p style="text-align:center">
-{% img /images/post/socializing-with-people.jpg 600 240 %}
-</p>
 
 Somehow you found your way to this blog. Maybe on purpose or maybe by accident. No matter how, it seems like you are as passionate about people, socializing and technology as we are.
 
