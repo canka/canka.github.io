@@ -12,10 +12,15 @@ categories:
 - progresshappening
 
 ---
+
+
 This week was special for many people and hopefully  for you as well. Not because you got excited of  [<b>news about “Tinder Plus.</b>”](http://techcrunch.com/2015/02/02/tinder-plus-the-paid-version-featuring-an-undo-button-and-more-arrives-in-u-s-next-month/)
 This other moment, when you thought "Wow, I didn't expect that to happen. It should happen way more often!"
 
 There are more of this moments than we tend to realize.  [<b>Sometimes it just needs a little reminder.</b>](http://lifehacker.com/carry-a-surprise-journal-to-find-areas-for-self-impro-1638467349)
+<p style="text-align:center">
+{% img /images/post/launch-75.png center %}
+</p>
 <!-- more -->
 
 Somehow you found your way to this blog. Maybe on purpose or maybe by accident. No matter how, it seems like you are as passionate about people, socializing and technology as we are.
