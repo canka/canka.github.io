@@ -1,0 +1,43 @@
+---
+layout: post
+title: "New Socialeyes Launched!"
+date: 2015-03-03 08:00:03 -0500
+comments: true
+categories: 
+- whosupfor
+- liveisspontan
+- socialeyes
+- launch
+- startup
+---
+<h2>It all started with a simple problem</h2>
+
+<p style="text-align:center">
+{% img /images/post/featureGraphic.png center %}
+</p>
+
+It was about three year ago it hit me. I wanted to grab a cup of coffee with a friend and I thought none of the traditional ways of communication was actually helping me to do this.
+
+Texting or calling friends: Yes it is probably the best way to do this. But think about it. Can you do this every time you want to do something? What if your friends will have to say no most of the time because they are either busy or somewhere far away at the moment. On the other hand wouldn’t it sometimes be better to socialize with other circle of friends?
+
+Facebook, Twitter: It might be hours later by the time my friends see that I was up for coffee 4 hours ago. Too late, no good. Besides let’s face it. It is not really cool to post something like “who’s up for coffee?” on your wall. And imagine doing this every time. 
+
+So we designed Socialeyes. We believed that asking friends to join us should be as simple as 1,2,3. We also thought life itself is a social game, so why don’t we design it in a way that it will be fun and cool at the same time.
+
+And now ladies and gentlemen. We are proud to present you the months of hardwork, and dedication. 
+
+<!-- more -->
+
+What changed: The first thing you will notice is that the design has undergone a complete change. Colors, UI, UX, etc. Now there is only button at the bottom of the screen making it way easier for our first time users to post something. We have also gotten rid of some of the parts that can help the design become more simple. We gathered all the actions on the left menu. Here you will have access to your own profile, searchbox, friends list & invitations, messages, and info section. On the right hand side of your main screen you will see notifications, well they haven’t much changed. 
+
+There have been also some changes to the concept. Now Socialeyes is a game! The more social you are, the more points you will earn. Every action, every interaction you do in the app earns you social score. This way you get to see how your social life has been. It shows your social identity, the things you like to do the most, the kind of person you are…
+
+There is a leaderboard added to the left menu. Here you get to see which friends have been active, which have not. It adds to the fun dimension of the app. 
+
+When your friends are nearby you get notified as long as your “nearby” switch is “on”.
+
+There has also been an addition to the “moods”. Now there are 12 moods and soon lot more are expected. Just so you know, our first users will have much more privileges, including the new moods. 
+
+Even if we can help you get one more glass of wine, one more quick lunch, one more cup of coffee with a friend, we will know our mission has been accomplished. We are hoping that you will enjoy Socialeyes just as much as we do.
+
+Any thoughts? Comments? Feedback? Please share with us @socialeyesapp or email: john@socialeyesapp.com

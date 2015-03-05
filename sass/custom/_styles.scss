@@ -1,9 +1,12 @@
 // Add your custom styling here.
-.appstore-link { float:right; background: url('/images/App_Store_Badge_270x80.png') no-repeat; text-indent:-999999px; width:270px; height:80px; }
-
-.nav li:first-child a { background: url('/images/banner-logo.png') no-repeat; text-indent:-999999px; width:422px; height:80px; padding:0px!important;}
-.navbar-inverse .nav a:hover { background: url('/images/banner-logo.png') no-repeat!important;}
-.navbar, .navbar-inner { height:100px!important; }
-.navbar-inner { background: url('/images/banner-pattern.png') repeat-x!important; }
+.appstore-link { float:right; background: url('/images/appstore.png') no-repeat; text-indent:-999999px; width:166px; height:60px; }
+.playstore-link {  float:right; background: url('/images/gplay.png') no-repeat; padding-bottom:5px; margin:0 0 5px 5px; text-indent:-999999px; width:166px; height:60px; }
+.nav li:first-child a { background: url('/images/seysite_header_logo.png') transparent no-repeat; text-indent:-999999px; width:199px; height:60px; padding:0px!important; background-size:190px auto!important; }
+.navbar-inverse .nav a:hover { background: url('/images/seysite_header_logo.png') transparent no-repeat!important; background-size:190px auto!important;  }
+.navbar-inner {  background: -webkit-linear-gradient(45deg, #704ad9, #A952A5)!important; /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(45deg, #704ad9, #A952A5)!important; /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(45deg, #704ad9, #A952A5)!important; /* For Firefox 3.6 to 15 */
+  background: linear-gradient(45deg, #704ad9, #A952A5)!important; /* Standard syntax */  }
 .navbar-inner .container { margin-top:10px; }
-.jumbotron .container, .jumbotron .container .tagline, h1.link , .hentry .jumbotron  { font-family: avantGarde!important; }
+.jumbotron .container, .jumbotron .container .tagline, h1.link , .hentry .jumbotron  { font-family: avantGarde!important; color:#A952A5!important; }
+a:hover>.badge { color:#fff!important; }
