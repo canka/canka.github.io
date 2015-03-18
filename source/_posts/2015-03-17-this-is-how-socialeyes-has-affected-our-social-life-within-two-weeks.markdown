@@ -1,0 +1,103 @@
+---
+layout: post
+title: "This is how Socialeyes has affected our social life within two weeks"
+date: 2015-03-17 20:38:58 -0400
+comments: true
+categories: 
+- social life
+- social butterfly
+- friends
+- good times
+- meet people
+---
+It’s been two amazing weeks now since we launched. 
+
+During this time we had some really exciting experiences with our app. 
+We want to share them with you, to show you how Socialeyes can affect your daily 
+social life.
+
+If you had some great experiences as well please let us know. 
+You can use the Comments or send a mail to david@socialeyesapp.com
+
+<p style="text-align:center">
+<h3><b>Can (@can)</b> and one of his activities on Socialeyes</h3>
+{% img /images/post/eating.jpg %}
+</p>
+
+Last week I got out of a meeting. I was really hungry and in a rush. I just wanted to grab
+some food and not make a great deal of it. Anyway I posted an eating mood because it 
+can be done so quickly. Within 3 minutes a friend texted me about grabbing a bite 
+together and we met casually.
+
+Even though Socialeyes has given me lots of opportunities like this, I was impressed 
+how fast I found a friend to join me. Instead of grabbing a quick sandwich on my own I 
+had the chance to see a friend, even though I had missed to meet him for a long time.
+<!-- more -->
+<p style="text-align:center">
+<h3><b>Ugur (@Ugur)</b> and one of his activities on Socialeyes</h3>
+{% img /images/post/coffee.jpg %}
+</p>
+
+Last week my cousin who lives in a different city was in town for a short visit. It 
+happened that he was close to me. Both of us were in an area we don't visit frequently. 
+
+He saw my last post and asked me to meet for a coffee. Later he told me, that he didn't 
+ask me before traveling because he had a tight schedule for the visit and thought it was 
+impossible to meet. Somehow reacting to my mood post felt more relaxed to him and 
+gave him the freedom to see me without worrying about his duties.
+
+Even though we had grown up together the urge to schedule life almost made me miss 
+to share my experiences within launching week with him in person. It was exciting for 
+both of us to feel the beauty of this spontaneous encounter.
+
+<p style="text-align:center">
+<h3><b>Erdem (@erdem)</b> and one of his activities on Socialeyes</h3>
+{% img /images/post/nightout.jpg %}
+</p>
+
+During our launch week we were really busy and it felt like it was impossible to see any 
+humans apart from our team. I posted an activity (it was not even about food) just to test 
+a feature and it was close to lunchtime. A friend of mine, who is part of the community, 
+happened to be working nearby and received a notification. He messaged me that he 
+was going out for lunch and that I could join him.
+
+I realized that his workplace was so close and wondered how often we missed the 
+chance to eat together.
+
+<p style="text-align:center">
+<h3><b>David (@lippi)</b> and his activities on Socialeyes</h3>
+{% img /images/post/movie.jpg %}
+</p>
+
+A month ago I wandered around İstiklal Avenue to find a good place for a midnight 
+snack.
+
+I ran into a guy from my University. We knew each other since some days only, but after 
+some chit chat I Invited him to have breakfast at my rooftop the next day with some friends.
+A bit later he invited me to watch a Movie with some of his friends. I was 
+surprised that friends of mine which he had met at the rooftop joined the activity without 
+me inviting them. At the end of our Launch day I felt still energized but in need to relax. 
+Fortunately this friend posted about another movie night on Socialeyes.
+
+This was the first activity I joined after our release. I am looking forward to experience 
+more of these spontaneous activities, now that our community is growing rapidly.
+
+<p style="text-align:center">
+<h3><b>Levent (@leventaskan)</b> and his activities on Socialeyes</h3>
+{% img /images/post/gaming.jpg %}
+</p>
+
+When we launched Socialeyes I came home one day and felt the need to relax a bit
+while playing some console games.
+
+Usually I prefer to play those games with company, this time I didn't...
+Wondering if I can invite one of my friends via Socialeyes, I 
+posted a mood with the comment "anyone wants to join me for a quick game". 
+
+Fortunately one of my friends who also had a long day was in my area at this time. He 
+was tired as well but liked the idea of having just a quick competition with me before 
+ending the day. 
+
+Later he told me that reacting to my mood post somehow it remembered of the time we 
+had during our childhood. Those days when you felt free to just visited friends without 
+appointment and asked if they can come out and play.
