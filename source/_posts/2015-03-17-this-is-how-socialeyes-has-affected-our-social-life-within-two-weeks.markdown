@@ -52,7 +52,7 @@ both of us to feel the beauty of this spontaneous encounter.
 
 <p style="text-align:center">
 <h3><b>Erdem (@erdem)</b> and one of his activities on Socialeyes</h3>
-{% img /images/post/nightout.jpg %}
+{% img /images/post/nighout.jpg %}
 </p>
 
 During our launch week we were really busy and it felt like it was impossible to see any 
