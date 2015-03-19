@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This is how Socialeyes has affected our social life within two weeks"
+title: "This is how Socialeyes has effected our social life within two weeks"
 date: 2015-03-17 20:38:58 -0400
 comments: true
 categories: 
@@ -13,13 +13,11 @@ categories:
 It’s been two amazing weeks now since we launched. 
 
 During this time we had some really exciting experiences with our app. 
-We want to share them with you, to show you how Socialeyes can affect your daily 
+We want to share them with you, to show you how Socialeyes can effect your daily 
 social life.
 
 If you had some great experiences as well please let us know. 
-You can use the Comments or send a mail to david@socialeyesapp.com
-
-<p style="text-align:center">
+You can use the Comments or send a mail to david@socialeyesapp.comf
 <h3><b>Can (@can)</b> and one of his activities on Socialeyes</h3>
 {% img /images/post/eating.jpg %}
 </p>
