@@ -17,7 +17,8 @@ We want to share them with you, to show you how Socialeyes can effect your daily
 social life.
 
 If you had some great experiences as well please let us know. 
-You can use the Comments or send a mail to david@socialeyesapp.comf
+You can use the Comments or send a mail to david@socialeyesapp.com
+
 <h3><b>Can (@can)</b> and one of his activities on Socialeyes</h3>
 {% img /images/post/eating.jpg %}
 </p>
