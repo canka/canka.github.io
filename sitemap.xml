@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://blog.socialeyesapp.com/blog/2015/03/27/how-my-small-world-got-bigger-rapidly-while-working-in-istanbul/</loc>
+    <lastmod>2015-03-27T11:02:39-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.socialeyesapp.com/blog/2015/03/17/this-is-how-socialeyes-has-affected-our-social-life-within-two-weeks/</loc>
     <lastmod>2015-03-17T20:38:58-04:00</lastmod>
     <priority>0.8</priority>
@@ -113,14 +119,14 @@
   
   <url>
     <loc>http://blog.socialeyesapp.com/</loc>
-    <lastmod>2015-03-24T08:11:03-04:00</lastmod>
+    <lastmod>2015-03-27T11:15:53-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://blog.socialeyesapp.com/blog/archives/</loc>
-    <lastmod>2015-03-24T08:11:03-04:00</lastmod>
+    <lastmod>2015-03-27T11:15:53-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
