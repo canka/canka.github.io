@@ -33,7 +33,7 @@ Using Socialeyes to enrich my social life here in Istanbul became custom. After 
                                                            
 This post not only got you curious about the App but also about how working with this great international team enriched my life?  Become part of our ambassador program, get infected by the spirit and stay excited how our plans to spread global will enrich your life as well. 
  
-Check out this [OPPORTUNITY TO WORK WITH US](https://angel.co/socialeyes/jobs/56370-university-ambassador)
+ If you want to learn more about working with us, get in touch with me through david@socialeyesapp.com or [check out this opportunity.](https://angel.co/socialeyes/jobs/56370-university-ambassador)
  
 Cheers,
 David
